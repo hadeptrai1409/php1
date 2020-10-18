@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36c2990f-4508-4068-a4bd-dbc4b90ff3df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/mvc/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/mvc/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/mvc/vendor/illuminate/view" />
+      <path value="$PROJECT_DIR$/mvc/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/mvc/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/mvc/vendor/illuminate/bus" />
+      <path value="$PROJECT_DIR$/mvc/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/mvc/vendor/composer" />
+      <path value="$PROJECT_DIR$/mvc/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/mvc/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/mvc/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/mvc/vendor/jenssegers/blade" />
+      <path value="$PROJECT_DIR$/mvc/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/mvc/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/mvc/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/mvc/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/mvc/vendor/illuminate/pipeline" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/mvc/vendor/illuminate/database" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ilXqh1dFRaT8HvuhDHHYTz607l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36c2990f-4508-4068-a4bd-dbc4b90ff3df" name="Default Changelist" comment="" />
+      <created>1602483345691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602483345691</updated>
+      <workItem from="1602483347112" duration="46000" />
+      <workItem from="1602994568245" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

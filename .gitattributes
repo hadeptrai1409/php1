@@ -1,0 +1,26 @@
+- trừu tượng : giúp chuyển hóa đối tượng / sự vật / sự việc ở đề bài của bài toán
+hoặc các công cụ được sử dụng, quá trình làm ra sản phẩm(code) thành các câu lệnh(class)
+xác định thuộc tính / hành động cần thiết của đối tượng thực tế => thuộc tính/ phương thức
+- đa hình : Tính chất đa hình (áp dụng cho các lớp có quan hệ kế thừa)
++ tính chất này thể hiện qua từ khóa overwrite (ghi đè/định nghĩa lại) thuộc tính & phương thức
+đã được định nghĩa ở lớp cha.
+# Auto detect text files and perform LF normalization
+* text=auto
+
+* Thuộc tính (property)
+- Biến đc khai báo trong class và có kèm theo cơ chế (qui định phạm vi truy cập của 1 thuộc tính)
+: public , protected , private
+
+* Phương thức : 
+- Là hàm được khai báo trong class và có kèm theo cơ chế create , edit , delete , get
+
+* how to access property or method
+- Ngoài class
++ Truy xuất (access) thông qua đối tượng
+- Trong class 
++ Thông qua từ khóa $this
+
+* Cơ chế
+- Public : Access ở mọi nơi (trong , ngoài , và class con)
+- protected : Access ở mọi nơi (trong và class con)
+- private : Access ở mọi nơi (trong class)
